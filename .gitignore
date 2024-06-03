@@ -67,4 +67,25 @@ sysinfo.txt
 *.unitypackage.meta
 *.ppk
 
+# Unity Addressable Assets
+Assets/AddressableAssetsData/
+
+# Unity Collaborate
+Collab/
+
+# Unity Cloud Build
+[Uu]serSettings/CloudBuildManifest.json
+
+# Unity Cache Server
+[Uu]serSettings/CacheServer/
+
+# Unity Shader Cache
+[Uu]serSettings/ShaderCache/
+
+# Unity Asset Store Tools
+Assets/AssetStoreTools*
+
+# Unity Plastic SCM
+[Uu]serSettings/PlasticSCMSettings.asset
+
 # End of https://www.toptal.com/developers/gitignore/api/unity
